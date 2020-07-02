@@ -1,4 +1,4 @@
-## Welcome to DanDan H
+## Welcome to DanDan Honey
 
 You can use the [editor on GitHub](https://github.com/dandanhoney/dandanhoney/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
